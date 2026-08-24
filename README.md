@@ -95,7 +95,6 @@ Website resmi perusahaan MSD, menampilkan profil, layanan, dan informasi perusah
   <img alt="snake animation" src="https://raw.githubusercontent.com/asya1605/asya1605/output/github-contribution-grid-snake.svg">
 </picture>
 
-<sub>*(butuh setup GitHub Actions terpisah — bisa saya buatkan workflow-nya kalau mau dipakai)*</sub>
 
 </div>
 
@@ -110,6 +109,6 @@ Website resmi perusahaan MSD, menampilkan profil, layanan, dan informasi perusah
 
 <br><br>
 
-<sub>💭 "Consistency beats intensity."</sub>
+<sub>💭 "Be nice."</sub>
 
 </div>
